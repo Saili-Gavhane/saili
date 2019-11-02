@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css?family=Dancing+Script&display=swap');
+.background{
+    background-color: aquamarine;
+}
+
+#myParagraph{
+    text-align: left;
+}
+div{
+    text-align: left;
+}
+p{
+    text-align: center;
+    font-size: 30px;
+    font-weight: bold;
+}
+.orange{
+    background-color: orangered;
+}
+.green{
+    background-color: green;
+}
+.blue{
+    color: blue;
+}
+.text-format{
+ text-align: center;
+ text-decoration-style: dotted;
+ text-transform: capitalize;
+ letter-spacing: 5px;
+ direction: rtl;
+ word-spacing: 10px;
+ text-shadow: 3px 2px green;
+}
+.font-format{
+    font-family: 'Dancing Script', cursive;
+}
